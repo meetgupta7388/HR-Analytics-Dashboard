@@ -21,7 +21,7 @@ To get started with this project, follow the steps below:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/hr-analytics-dashboard.git
+    git clone https://github.com/meetgupta007/HR-Analytics-Dashboard.git
     ```
 
 2. **Open the Power BI template**:
